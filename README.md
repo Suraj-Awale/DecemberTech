@@ -1,2 +1,3 @@
 # DecemberTech
-This is created for learning purpose
+This is created for learning purpose.
+Author - Suraj Awale
